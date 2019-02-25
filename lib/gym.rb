@@ -34,9 +34,4 @@ class Gym
     lifter_membership.each {|lifter| total += lifter.lift_total}
     total
   end
-
-
-
-
-
 end
